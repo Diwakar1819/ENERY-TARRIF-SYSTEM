@@ -9,15 +9,11 @@
 <h3>ENEGRGY TARRIF SYSTEM</h3>
 Our project aims to revolutionize energy management in households by implementing an innovative energy tariff system. By utilizing ESP32 microcontrollers, Firebase database, and electricity and voltage sensors, we accurately monitor energy consumption by individual components within a house. The system employs a predefined model to calculate monthly electricity costs, offering users detailed insights into their energy usage patterns and facilitating informed decisions for energy conservation and cost optimization.
 
-## Team Details
-`Team number` : VH223
-
+## Personal Details
 | Name    | Email           |
 |---------|-----------------|
 | Diwakar R | diwakarravikumar2004@gmail.com |
-| Balaji S | balajis07032005@gmail.com |
-| Ajay Nirmal C | ajaynirmal9962@gmail.com |
-| Faiz Mohammed A | faizmohammedfire@gmail.com |
+
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/Diwakar1819/vashist-hackathon/assets/154526900/8eb695d3-4e26-486d-9ba8-331469d8869f)" alt="Image 1" style="width: 30%; margin: 5px;">
