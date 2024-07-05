@@ -35,6 +35,7 @@ Our project implements an energy tariff system using ESP32, Firebase, and electr
 
 ## Techstacks used 
 `ESP32` , `Reactjs` , `Julia ML` , `Firebase` , `voltage and current sensor`
+/n
 Role in the Project:
 - ESP32: Facilitates data collection from sensors and communicates with Firebase for data storage and retrieval.
 - Firebase: Stores energy consumption data and user information securely, enabling real-time access and analysis.
