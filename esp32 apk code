@@ -4,8 +4,8 @@
 
 #define WIFI_SSID "Diwakar"
 #define WIFI_PASSWORD "diwakar1018"
-#define API_KEY "AIzaSyAz7r8LyvZICeBBazaK0-D8L13gf_cXNz4"
-#define DATABASE_URL "https://energy-tariff-system-default-rtdb.firebaseio.com"
+#define API_KEY "-"
+#define DATABASE_URL "-"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
